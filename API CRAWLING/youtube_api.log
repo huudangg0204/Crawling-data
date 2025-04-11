@@ -1,0 +1,24 @@
+2025-03-26 22:12:31,372 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-26 22:12:31,389 - __main__ - INFO - Successfully connected to YouTube API
+2025-03-26 22:12:31,390 - __main__ - INFO - Retrieving trending videos for region US
+2025-03-26 22:12:33,621 - __main__ - INFO - Successfully retrieved 50 trending videos
+2025-03-26 22:12:33,624 - __main__ - INFO - Successfully saved data to .\youtube_trending_US_20250326_221233.csv
+2025-03-26 22:12:33,624 - __main__ - INFO - Process completed successfully. Data saved to .\youtube_trending_US_20250326_221233.csv
+2025-03-26 22:37:41,963 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-26 22:37:41,987 - __main__ - INFO - Successfully connected to YouTube API
+2025-03-26 22:37:41,988 - __main__ - INFO - Retrieving trending videos for region US
+2025-03-26 22:37:42,834 - __main__ - INFO - Successfully retrieved 50 trending videos
+2025-03-26 22:37:42,837 - __main__ - INFO - Successfully saved data to .\youtube_trending_US_20250326_223742.csv
+2025-03-26 22:37:42,837 - __main__ - INFO - Process completed successfully. Data saved to .\youtube_trending_US_20250326_223742.csv
+2025-03-26 22:38:02,015 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-26 22:38:02,020 - __main__ - INFO - Successfully connected to YouTube API
+2025-03-26 22:38:02,020 - __main__ - INFO - Retrieving trending videos for region JP
+2025-03-26 22:38:02,957 - __main__ - INFO - Successfully retrieved 50 trending videos
+2025-03-26 22:38:02,959 - __main__ - INFO - Successfully saved data to .\youtube_trending_JP_20250326_223802.csv
+2025-03-26 22:38:02,960 - __main__ - INFO - Process completed successfully. Data saved to .\youtube_trending_JP_20250326_223802.csv
+2025-03-26 22:38:15,531 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-26 22:38:15,537 - __main__ - INFO - Successfully connected to YouTube API
+2025-03-26 22:38:15,537 - __main__ - INFO - Retrieving trending videos for region VN
+2025-03-26 22:38:16,320 - __main__ - INFO - Successfully retrieved 50 trending videos
+2025-03-26 22:38:16,323 - __main__ - INFO - Successfully saved data to .\youtube_trending_VN_20250326_223816.csv
+2025-03-26 22:38:16,323 - __main__ - INFO - Process completed successfully. Data saved to .\youtube_trending_VN_20250326_223816.csv
